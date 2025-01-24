@@ -1,3 +1,4 @@
+#Binary Classification of Insurance Cross Selling
 This repository contains my solution for the Playground Series Season 4, Episode 7 Kaggle competition. The challenge involved building a binary classification model to predict customer interest in purchasing additional insurance products.
 
 ## Objective
